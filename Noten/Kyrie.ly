@@ -1,9 +1,3 @@
-%LY{
-%\GesB{1}
-%\Nr{312}
-%\U{9}
-%\Titel{Osterhalleluja}
-%\Ly{
 \version "2.18.2"
 \include "../../../modernGregorian.ily"
 adventusquadragesimaKyrie = \transpose c c' {
