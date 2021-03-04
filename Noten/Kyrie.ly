@@ -70,7 +70,7 @@ adventusquadragesimaKyrie = \transpose c c' {
   \set stanza = "V/A" 
   Ky -- ri -- e, e -- _ le -- i -- son.
   \set stanza = "V/A" 
-  Chri -- ste, _ e -- _ le-- i -- son.
+  Chri -- ste, _ e -- _ le -- i -- son.
   \set stanza = "V" 
   Ky -- ri -- e, _ e -- _ le -- i -- son.
   \set stanza = "A" 
